@@ -1,6 +1,4 @@
 I build, use, and teach agents
-- Currently AI Engineer at Markr.AI
-- Previously taught at POSCO, Hanwha, Hyundai, SK and 10+ organizations on AX & Agents
-
-Try: https://tabula.md
-It's opensource: https://github.com/tabula-md/tabula-md
+- Building Staleless, Agentic Knowledge Infrastructure
+- AI Engineer at Markr.AI — building the infrastructure that lets AI coding agents run safely inside air-gapped government networks
+- Previously taught at POSCO, Hanwha, Hyundai, KIA, SK Hynix and 10+ organizations on AX & Agents
